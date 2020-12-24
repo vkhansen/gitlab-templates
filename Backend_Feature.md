@@ -29,10 +29,20 @@ Example:
 
 <!--  	Could we do this better than the minimum requirement, what would that look like?  -->
 
+
 #### Dependent modules and data sources/API’s(required):
 
 <!--  	Will this feature require data obtained from outside API’s or other modules within the program? If so, list and link to dependencies:  -->
-<!--  	For example is this related to a frontend feature? Link to them (issue numbers may be linked with #, i.e. #30 is issue 30) -->
+
+
+### What are the related issues
+
+<!--    Issues may be linked with # for example #30 is issue 30 -->
+<!--    NOTE IF THIS ISSUE IS A DEPENDENCY -->
+
+### What are the related merge requests
+
+<!--    Merge requests may be linked with ! for example !10 for merge request 10 -->
 
 
 #### Relevant screenshots, links / references / materials / google drive (required if applicable):

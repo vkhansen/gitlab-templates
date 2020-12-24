@@ -17,10 +17,13 @@
 
 ### What changes are included in this merge request
 
-<!-- Describe what actually happens. -->
+<!-- Describe what this merge request changes -->
 
-#### What are the related issues and merge requests
+### What are the related issues
 
-<!--    issues may be linked with # for example #30 is issue 30 -->
+<!--    Issues may be linked with # for example #30 is issue 30 -->
+
+### What are the related merge requests
+
 <!--    Merge requests may be linked with ! for example !10 for merge request 10 -->
 

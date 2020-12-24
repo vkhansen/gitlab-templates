@@ -29,6 +29,14 @@
 - [ ] Code is a mess
 - [ ] Other (describe)
 
+#### What are the related issues
+
+<!--    Issues may be linked with # for example #30 is issue 30 -->
+
+#### What are the related merge requests
+
+<!--    Merge requests may be linked with ! for example !10 for merge request 10 -->
+
 #### Dependent modules and data sources/API’s (required):
 
 <!--  	What modules and API’s or data sources does this refactoring involve (best effort) -->
@@ -40,8 +48,6 @@
 
 <!-- Paste any relevant logs or external links - please use code blocks (```) to format console output, logs, and code
  as it's tough to read otherwise. -->
-
-<!--    issues may be linked with # for example #30 is issue 30 -->
 
 [link example](https://www.reddit.com)
 

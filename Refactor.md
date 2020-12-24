@@ -20,8 +20,10 @@
 
 <!--  Possible Refactoring classifications -->
 
+- [ ] Localization related
 - [ ] Incorrect design pattern
 - [ ] Not object-oriented
+- [ ] Improve performance (describe how)
 - [ ] Hardcoded SQL
 - [ ] Filtering applied in frontend
 - [ ] Pagination missing

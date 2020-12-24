@@ -56,9 +56,9 @@ Example:
 
 <!-- 	Ex. Chrome version 78 on Windows, Safari on iOS 12, ... -->
 
-- [ ] Default CODIUM Mac OS X configuration
-- [ ] Default CloudHM Ubuntu VM configuration
-- [ ] Default CODIUM Windows 7 configuration
+- [ ] Default Desktop Mac OS X configuration
+- [ ] Default Cloud Ubuntu VM configuration
+- [ ] Default Desktop Windows 7 configuration
 - [ ] Other (Describe)
 
 

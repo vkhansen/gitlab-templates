@@ -71,8 +71,10 @@ Example:
 
 <!-- Paste any relevant logs or external links - please use code blocks (```) to format console output, logs, and code
  as it's tough to read otherwise. -->
+<!--    issues may be linked with # for example #30 is issue 30 -->
 
-[link example]: https://www.reddit.com
+
+[link example](https://www.reddit.com)
 
 ### Possible fixes 
 

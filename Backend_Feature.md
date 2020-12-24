@@ -2,17 +2,12 @@
 
 <!-- Summarize the backend feature to be implemented concisely. -->
 
-
 <details>
 <summary> Brief high level description of the backend feature to be built</summary>
 <pre>
-
 Example:
-
 - Create a new API endpoint in backend for new type of master data (i.e. memo_cc_group
 - Create a way to edit memo_cc_group master data in frontend via Api endpoint created in issue #555
-
-
 </pre>
 </details>
 
@@ -45,7 +40,7 @@ Example:
 
 <!-- include any relevant resources or external links -->
 
-[link example]: https://www.reddit.com
+[link example](https://www.reddit.com)
 
 
 /label ~backend

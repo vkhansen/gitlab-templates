@@ -1,6 +1,6 @@
 ### Frontend Feature Description/Summary:
 
-<!-- Summarize the bug encountered concisely. -->
+<!-- Summarize the feature to implemented concisely. -->
 
 
 <details>
@@ -29,15 +29,10 @@ Example:
 <!--  	When some action is carried out -->
 <!--  	Then a set of observable outcomes should occur -->
 
-
-#### Reach goal (optional):
-
-<!--  	Could we do this better than the minimum requirement, what would that look like?  -->
-
-#### Dependant modules and data sources/API’s(required):
+#### Dependent modules and data sources/API’s(required):
 
 <!--  	Will this feature require data obtained from outside API’s or other modules within the program? If so, list dependencies:  -->
-<!--  	For example is this related to a backend feature? Link to them  -->
+<!--  	For example is this related to a backend feature? Link to them  (issues may be linked with # for example #30 is issue 30 -->
 
 
 #### Relevant screenshots, links / references / materials / google drive (required if applicable):

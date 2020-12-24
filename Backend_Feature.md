@@ -1,6 +1,6 @@
 ### Backend Feature Description/Summary:
 
-<!-- Summarize the bug encountered concisely. -->
+<!-- Summarize the backend feature to be implemented concisely. -->
 
 
 <details>
@@ -34,10 +34,10 @@ Example:
 
 <!--  	Could we do this better than the minimum requirement, what would that look like?  -->
 
-#### Dependant modules and data sources/API’s(required):
+#### Dependent modules and data sources/API’s(required):
 
 <!--  	Will this feature require data obtained from outside API’s or other modules within the program? If so, list and link to dependencies:  -->
-<!--  	For example is this related to a frontend feature? Link to them  -->
+<!--  	For example is this related to a frontend feature? Link to them (issue numbers may be linked with #, i.e. #30 is issue 30) -->
 
 
 #### Relevant screenshots, links / references / materials / google drive (required if applicable):

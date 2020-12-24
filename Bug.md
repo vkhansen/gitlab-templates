@@ -28,7 +28,7 @@
 
 
 
-### Steps to reproduce
+### Steps to reproduce:
 
 <details>
 <summary> Describe how one can reproduce the issue - this is very important. Please use an ordered list.</summary>
@@ -74,9 +74,9 @@ Example:
 <!--    issues may be linked with # for example #30 is issue 30 -->
 
 
-[link example](https://www.reddit.com)
+[link example, gitlab](https://www.gitlab.com)
 
-### Possible fixes 
+### Possible fixes:
 
 <!-- What did you try to fix the bug? -->
 <!-- If you can, link to the line of code that might be responsible for the problem. -->

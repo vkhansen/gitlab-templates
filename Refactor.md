@@ -29,11 +29,12 @@
 - [ ] Code is a mess
 - [ ] Other (describe)
 
-#### What are the related issues
+#### What are the related issues?
 
 <!--    Issues may be linked with # for example #30 is issue 30 -->
+<!--    NOTE IF THIS ISSUE IS A DEPENDENCY -->
 
-#### What are the related merge requests
+#### What are the related merge requests?
 
 <!--    Merge requests may be linked with ! for example !10 for merge request 10 -->
 
@@ -49,7 +50,7 @@
 <!-- Paste any relevant logs or external links - please use code blocks (```) to format console output, logs, and code
  as it's tough to read otherwise. -->
 
-[link example](https://www.reddit.com)
+[link example, gitlab](https://www.gitlab.com)
 
 ### Possible approaches
 
